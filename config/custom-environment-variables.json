@@ -1,0 +1,4 @@
+{
+  "jwt_private_key": "Assessments_api_jwt_private_key",
+  "db": "Assessments_api_db"
+}
